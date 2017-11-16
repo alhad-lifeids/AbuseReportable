@@ -6,7 +6,7 @@ Forked from AbdullahGhanem/reportable
 First, pull in the package through Composer.
 
 ```js
-composer require alhad-lifeids/abuse-reportable
+composer require lifeids/abusereportable
 ```
 
 And then include the service provider within `app/config/app.php`.
