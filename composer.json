@@ -1,0 +1,22 @@
+{
+    "name": "alhad-lifeids/AbuseReportable",
+    "description": "Abuse Reportable Polymorphic Eloquent Models for Laravel 5",    
+    "keywords": ["Abusereport", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lifeids",
+            "email": "info@lifeids.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lifeids\\AbuseReportable\\": "src/"
+        }
+    }
+}
