@@ -1,4 +1,6 @@
-<?php namespace Lifeids\AbuseReportable;
+<?php
+
+namespace Lifeids\AbuseReportable;
 
 use Illuminate\Support\ServiceProvider;
 
