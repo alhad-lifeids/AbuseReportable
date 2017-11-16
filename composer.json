@@ -1,5 +1,5 @@
 {
-    "name": "alhad-lifeids/abuse-reportable",
+    "name": "lifeids/abuse-reportable",
     "description": "Abuse Reportable Polymorphic Eloquent Models for Laravel 5",    
     "keywords": ["Abusereport", "laravel"],
     "license": "MIT",
