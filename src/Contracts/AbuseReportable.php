@@ -1,4 +1,5 @@
-<?php namespace Lifeids\AbuseReportable\Contracts;
+<?php
+namespace Lifeids\AbuseReportable\Contracts;
 
 use Illuminate\Database\Eloquent\Model;
 
