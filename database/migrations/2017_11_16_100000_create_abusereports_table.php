@@ -16,7 +16,7 @@ class CreateAbuseReportsTable extends Migration
             $table->timestamps();
         });
 
-        Schema::create('reports_conclusions', function (Blueprint $table) {
+        Schema::create('abusereports_conclusions', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('abusereport_id')->unsigned()->index();
             $table->morphs('judge');
